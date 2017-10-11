@@ -1,5 +1,7 @@
 .DS_Store
 
+/.idea
+
 *.js.map
 
 !app/samples/*.js
